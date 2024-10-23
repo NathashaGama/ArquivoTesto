@@ -1,0 +1,8 @@
+C:\Users\aluno\Desktop\ArquivoTesto\ArquivoTesto\bin\Debug\ArquivoTesto.exe.config
+C:\Users\aluno\Desktop\ArquivoTesto\ArquivoTesto\bin\Debug\ArquivoTesto.exe
+C:\Users\aluno\Desktop\ArquivoTesto\ArquivoTesto\bin\Debug\ArquivoTesto.pdb
+C:\Users\aluno\Desktop\ArquivoTesto\ArquivoTesto\obj\Debug\ArquivoTesto.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\ArquivoTesto\ArquivoTesto\obj\Debug\ArquivoTesto.MainForm.resources
+C:\Users\aluno\Desktop\ArquivoTesto\ArquivoTesto\obj\Debug\ArquivoTesto.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\ArquivoTesto\ArquivoTesto\obj\Debug\ArquivoTesto.exe
+C:\Users\aluno\Desktop\ArquivoTesto\ArquivoTesto\obj\Debug\ArquivoTesto.pdb

@@ -29,5 +29,31 @@ namespace ArquivoTesto
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
 		}
+		void MainFormLoad(object sender, EventArgs e)
+		{
+	
+		}
+		void Button1Click(object sender, EventArgs e)
+		{
+	// Salvar arquivo
+	richTextBox1.SaveFile("teste.rtf");
+	MessageBox.Show("Arquivo salvo com sucesso");
+	// para poder mudar o aquivo de rtf para txt, precisa fazer o seguinte código:
+	//- richTextBox1.SaveFile("teste.txt",RichTextBoxStreamType.PlainText);
+	//Sempre lembrar do Plain Text que vai ser usado nessas ocasioes;
+	
+	
+		}
+		void Button2Click(object sender, EventArgs e)
+		{
+	// Limpar arquivo
+	richTextBox1.LoadFile("teste.rtf");
+	
+		}
+		void Button3Click(object sender, EventArgs e)
+		{
+			richTextBox1.Clear();
+			
+		}
 	}
 }
